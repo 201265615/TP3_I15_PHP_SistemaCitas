@@ -1,0 +1,25 @@
+<?php 
+return array(
+                'Administrar Usuarios'=>'Administrar Usuarios',
+                'Eliminar Usuario'=>'Eliminar Usuario',
+                'Ver Usuarios'=>'Ver Usuarios',
+                'Usuarios'=>'Usuarios',
+                'Usuario'=>'Usuario',
+                'Crear Usuario'=>'Crear Usuario',
+                'Actualizar Usuario'=>'Actualizar Usuario',
+                'Update'=>'Actualizar',
+                'idUsuario' => 'Id Usuario',
+                'Nombre Completo' => 'Nombre Completo',
+                'Telefono' => 'Telefono',
+                'Correo Electronico' => 'Correo Electronico',
+                'Contrasena' => 'Contrasena',
+                'Activo' => 'Activo',
+                'Fecha Registro' => 'Fecha Registro',
+                'Idiomas_idIdioma' => 'Id Idioma',
+                'Los campos con * son obligatorios.' => '<p class="note">Los campos con <span class="required">*</span> son obligatorios.</p>',
+                'registrarse' => 'registrarse',
+                'Crear' => 'Crear',
+                'Id Usuario' => 'Id Usuario',
+                'Iniciar Sesion' => 'Iniciar Sesion',
+        );
+?>
